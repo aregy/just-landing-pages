@@ -1,0 +1,152 @@
+﻿body {
+    padding-bottom: 20px;
+    color: #335566;
+    /* background-color: #F7F7F7; */
+    margin-top:5px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    /*padding-top: 60px;*/
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+.navbar-inverse {
+    background-color: #D1E0ED;
+    border-color: #D1E0ED;
+}
+
+.navbar-brand {
+    color: #333333 !important;
+    font-size: x-large;
+}
+/*.navbar-brand:hover {
+    color: #F5511E !important;
+}*/
+
+h1 {
+    color: #AAAAAA;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.title-card {
+    max-width: 500px;
+    padding-bottom: 20px !important;
+}
+
+img {
+    width: 100%;
+    min-width: 100px;
+    display: block;
+}
+
+.player-card {
+    width: 450px !important;
+}
+
+.slide {
+    max-width: 300px !important;
+    padding-bottom: 20px !important;
+}
+
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cross-through {
+    text-decoration: line-through;
+    font-variant: small-caps;
+}
+
+.page-heading {
+    color: #FFFFFF !important;
+    font-size: xx-large;
+}
+
+@font-face {
+    font-family: "Consolas";
+    src: url("../General/consolas.eot"); /* IE9*/
+    src: url("../General/consolas_legacy.eot"), /* IE6-IE8 */
+    url("../General/consolas.woff2") format("woff2"), /* chrome firefox */
+    url("../General/consolas.woff") format("woff"), /* chrome firefox */
+    url("../General/consolas.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("../General/consolas.svg") format("svg"); /* iOS 4.1- */
+}
+
+* {
+    font-family: Consolas, monospace;
+}
+
+.row {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: auto;
+}
+
+.visible-anchor {
+    position: relative;
+    left: 10px;
+    /*top: 1px;*/
+    /*width: 18px;*/
+    /*opacity: 0;*/
+    color: rgba(17,91,192,.5);
+    /*font-size: 18px;*/
+    text-decoration: none;
+    /*display: none;*/
+    opacity: 0;
+}
+
+    .visible-anchor:hover {
+        opacity: .1;
+    }
+
+h1:hover > a.visible-anchor {
+    /*display: inline;*/
+    opacity: .75;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.gallery-control li {
+    text-align: center;
+}
+
+    .gallery-control li:hover {
+        background: #EEEEEE;
+    }
+
+.explorer-pane {
+    width: 25%;
+    float: left;
+}
+
+    .explorer-pane * {
+        cursor: pointer;
+    }
+
+.viewer-pane {
+    width: 75%;
+    float: left;
+}
