@@ -16,7 +16,28 @@
 <body>
     <div class="container">
         <main role="main" class="pb-3">
-            <h1>Presenting a Full Second Look...</h1>
+          <h1>Presenting a Full Second Look...</h1>
+	      <h3 >
+        The Jar Jar Model of Political Administration
+    </h3>
+    <div>
+            <audio id="audio1" style="width:70%;" controls>
+                <source src="https://traffic.libsyn.com/secure/gregtodiffer/aFSL_-_The_Jar_Jar_Model_of_Political_Administration.mp3" type="audio/mp3">
+                You're reading this because your browser doesn't support the audio tag, probably.
+            </audio>
+        </div>
+    <p style="margin-left:10px; margin-top:5px;">A half hour recorded on July 18, 2021.</p>
+
+    <h3 >
+        After Andre
+    </h3>
+    <div>
+            <audio id="audio1" style="width:70%;" controls>
+                <source src="https://traffic.libsyn.com/secure/gregtodiffer/aFSL_-_After_Andre.mp3" type="audio/mp3">
+                You're reading this because your browser doesn't support the audio tag, probably.
+            </audio>
+        </div>
+    <p style="margin-left:10px; margin-top:5px;">An hour recorded on August 2, 2021.</p>
 
     <h3 >
         Uncle Tony, I just don't have time for it!
