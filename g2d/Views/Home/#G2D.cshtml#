@@ -1,0 +1,658 @@
+@{
+    ViewBag.Title = "G2D";
+}
+<div class="row">
+    <h1 id="XXI"><span>G2D - Episode XXII</span><a class="visible-anchor anchor-link" href="#XXII">#</a></h1>
+    <p class="lead">The End of 𝚁𝚊𝚍𝚒𝚘 𝙵𝚛𝚎𝚎 𝙰𝚗𝚍𝚛𝚎</p>
+    <p>"I’m not going to open my meme folder to someone like that."</p>
+    <a href="~/Content/XXII/the eternal rfa.jpg" target="_blank">
+        <img class="img-responsive title-card" src="~/Content/XXII/the eternal rfa.jpg" />
+    </a>
+    <p>
+        <iframe class="player-card" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17197853/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/aaaaaa/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    </p>
+    <p>
+        <a class="btn" href="https://traffic.libsyn.com/secure/gregtodiffer/XXII.mp3">
+            Download Episode 22
+        </a>
+    </p>
+
+
+    <ul>
+        <li>
+            <span class="time-stamp">0:00:31</span>
+            Nisi Dominus - Handel
+        </li>
+        <li>
+            <span class="time-stamp">0:07:31</span>
+            Slobodan writes in...
+        </li>
+        <li>
+            <span class="time-stamp">0:10:05</span>
+            McGirr, 2001
+            <a href="#XXII_00">
+                <span id="XXII_00_ref">
+                    [XXII_00]
+                </span>
+            </a>
+        </li>
+        
+        <li>
+            <span class="time-stamp">0:19:33</span>
+            RFA Fundamentals
+            <a href="#XXII_01">
+                <span id="XXII_01_ref">
+                    [XXII_01]
+                </span>
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:56:09</span>
+            <a href="https://soundcloud.com/generaloffensive/backbite-preview" target="_blank">
+                Backbite - General Offensive
+            </a>
+        </li>
+
+    </ul>
+    <ul>
+        <li>
+            <a href="#XXII_00_ref">
+                <span id="XXII_00">
+                    [XXII_00]
+                </span>
+            </a>
+            <a href="~/Content/XXII/McGirr 2001.png" target="_blank">
+                <img class="img-responsive title-card" src="~/Content/XXII/McGirr 2001.png" />
+            </a>
+        </li>
+        <li>
+            <a href="#XXII_01_ref">
+                <span id="XXII_01">
+                    [XXII_01]
+                </span>
+            </a>
+            <div style="border:solid; border-color: red; max-width: 400px;">
+                <a href="~/Content/XXII/The End of Radio Free Andre.pdf" target="_blank">
+                    @*<h2 style="position: relative; float:left;">The End of Radio Free Andre.PDF</h2>*@
+                    <img class="img-responsive title-card" src="~/Content/XXII/rfa_thumbnail.png" />
+                </a>
+            </div>
+        </li>
+    </ul>
+</div>
+<div class="row">
+
+    <h1 id="XXI"><span>G2D - Episode XXI</span><a class="visible-anchor anchor-link" href="#XXI">#</a></h1>
+
+    <p class="lead">A ringing endorsement of Skull and Bones</p>
+    <a href="~/Content/XXI/Gold design-02.jpeg" target="_blank">
+        <img class="img-responsive title-card" src="~/Content/XXI/Gold design-02.jpeg" />
+    </a>
+    <p>
+        <iframe class="player-card" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17148323/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/aaaaaa/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <p>
+        <a class="btn" href="https://traffic.libsyn.com/secure/gregtodiffer/XXI.mp3">
+            Download Episode 21
+        </a>
+    </p>
+    <ul>
+        <li><span class="time-stamp">0:03:40</span> Bennis tracts</li>
+        <li>
+            <span class="time-stamp">0:13:00</span> Peak Wassem
+            <a href="#XXI_00">
+                <span id="XXI_00_ref">[XXI_00]</span>
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:13:40</span>
+            <a href="#XXI_01">
+                <span id="XXI_01_ref">[XXI_01]</span>
+            </a>
+        </li>
+        @*<li><span class="time-stamp">23:07</span></li>
+        <li><span class="time-stamp">25:13</span> cut</li>*@
+        <li><span class="time-stamp">0:26:53</span> Where 'Ism becomes 'Tism</li>
+        <li>
+            <span class="time-stamp">0:29:52</span> Grandpa at Hearst Castle
+            <a href="#XXI_02">
+                <span id="XXI_02_ref">[XXI_02]</span>
+            </a>
+        </li>
+        @*<li><span class="time-stamp">32:10</span></li>
+        <li><span class="time-stamp">35:18</span></li>
+        <li><span class="time-stamp">41:45</span></li>
+        <li><span class="time-stamp">43:30</span></li>
+        <li><span class="time-stamp">51:24</span> retarded meme, 52 30</li>
+        <li><span class="time-stamp">54:08</span> funko pop</li>
+        <li><span class="time-stamp">1:01:13</span></li>
+        <li><span class="time-stamp">1:14:20 - 1:14:44</span></li>*@
+    </ul>
+    <ul>
+        <li>
+            <a href="#XXI_00_ref">
+                <span id="XXI_00">
+                    [XXI_00]
+                </span>
+            </a>
+            <a href="~/Content/XXI/peak wassem rotated.jpg" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XXI/peak wassem rotated.jpg" />
+            </a>
+        </li>
+        <li>
+            <a href="#XXI_01_ref">
+                <span id="XXI_01">
+                    [XXI_01]
+                </span>
+            </a>
+            <a href="~/Content/XXI/mj and mac(aulay).jpg" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XXI/mj and mac(aulay).jpg" />
+            </a>
+        </li>
+        <li>
+            <a href="#XXI_02_ref">
+                <span id="XXI_02">
+                    [XXI_02]
+                </span>
+            </a>
+            <a href="~/Content/XXI/carmine at hearst cropped.jpg" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XXI/carmine at hearst cropped.jpg" />
+            </a>
+        </li>
+    </ul>
+</div>
+
+<div class="row">
+
+    <h1 id="XX"><span>G2D - Episode XX</span><a class="visible-anchor anchor-link" href="#XX">#</a></h1>
+
+    <p class="lead">Give me them Hittin_Sticks®</p>
+    <a href="~/Content/XX/david tarkovsky.png" target="_blank"><img class="img-responsive title-card" src="~/Content/XX/david tarkovsky.png" /></a>
+    <p>
+        <iframe class="player-card" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17087099/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/aaaaaa/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <p><a class="btn" href="https://traffic.libsyn.com/secure/gregtodiffer/g2d_20.mp3">Download Episode 20</a></p>
+
+
+    <ul>
+        <li>
+            <span class="time-stamp">
+                0:00:01
+            </span>
+            <a target="_blank" href="https://www.youtube.com/watch?v=t_mMnPjg2O0">
+                Oligarkh - Forgive Us
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:02:38</span>
+            <a target="_blank" href="https://www.youtube.com/watch?v=QjjqIs-YzaE">
+                Համո համո ղապամա
+            </a>
+            | Hamov hamov ghapama | Delicious delicious ghapama
+        </li>
+        <li>
+            <span class="time-stamp">0:14:56</span>
+            <a target="_blank" href="https://www.youtube.com/watch?v=4RaWAQIBZ2I">
+                Fresh Prince of Bel-Air - Uncle Phil Hustles the Hustler
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:27:00</span>
+            <a target="_blank" href="https://www.metagamedoc.com/">
+                Metagame Documentary
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:42:31</span>
+            <a target="_blank" href="https://acadecscores.gilslotd.com/wiki/User:Sautygera">
+                User:Sautygera
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:50:05</span>
+            <a href="#XX_00">
+                <span id="XX_00_ref">
+                    [XX_00]
+                </span>
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:54:20</span>
+            <a target="_blank" href="https://www.youtube.com/watch?v=gbsLTAO7Ra8">
+                Fellowship 9/11
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:55:14</span>
+            ~'98 Netscape Navigator
+            <a target="_blank" href="https://unix.stackexchange.com/q/40852#answer-587496">
+                source code
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">0:56:52</span>
+            <a target="_blank" href="https://www.monomorphic.org/wordpress/code-reuse-according-to-knuth/">
+                Code reuse according to Knuth
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">1:01:45</span>
+            <a target="_blank" href="https://spinpasta.fandom.com/wiki/Genocide_City">
+                Sonic 2 - Genocide City
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">1:02:38</span>
+            <a target="_blank" href="http://www.s3complete.org/">
+                Sᴏɴɪᴄ 3 Cᴏᴍᴘʟᴇᴛᴇ
+            </a>
+
+        </li>
+        <li>
+            <span class="time-stamp">1:05:50</span>
+            Antoni Gaudi
+            <a href="#XX_01">
+                <span id="XX_01_ref">
+                    [XX_01]
+                </span>
+            </a>
+        </li>
+        <li>
+            <span class="time-stamp">1:14:00</span>
+            <a href="#XX_02">
+                <span id="XX_02_ref">
+                    [XX_02]
+                </span>
+            </a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="#XX_00_ref">
+                <span id="XX_00">
+                    [XX_00]
+                </span>
+            </a>
+            <a href="~/Content/XX/tarkovsky_madman.png" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XX/tarkovsky_madman.png" />
+            </a>
+        </li>
+        <li>
+            <a href="#XX_01_ref">
+                <span id="XX_01">
+                    [XX_01]
+                </span>
+            </a>
+            <a href="~/Content/XX/antoni gaudi.jpg" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XX/antoni gaudi.jpg" />
+            </a>
+        </li>
+        <li>
+            <a href="#XX_02_ref">
+                <span id="XX_02">
+                    [XX_02]
+                </span>
+            </a>
+            <a href="~/Content/XX/encarta.jpg" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XX/encarta.jpg" />
+            </a>
+        </li>
+    </ul>
+</div>
+
+<div class="row">
+
+    <h1 id="XIX"><span>G2D - Episode XIX</span><a class="visible-anchor anchor-link" href="#XIX">#</a></h1>
+
+    <p class="lead">Pᴇᴀᴋ Ｊａｇｇｙ</p>
+    <a href="~/Content/XIX/jaggy.png" target="_blank"><img class="img-responsive title-card" src="~/Content/XIX/jaggy.png" /></a>
+    <p>
+        <iframe class="player-card" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/17010020/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/aaaaaa/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        @*<audio controls>
+                <source src="~/Content/XIX/XIX.mp3" type="audio/mp3">
+
+            </audio>*@
+    <p><a class="btn" href="https://traffic.libsyn.com/secure/gregtodiffer/XIX.mp3">Download Episode 19</a></p>
+
+
+    <ul>
+        <li><span class="time-stamp">0:09:30</span> <a target="_blank" href="https://www.tesmanian.com/blogs/tesmanian-blog/lunar-lander">SpaceX is building a NASA Starship Lunar Lander prototype</a> <a href="#XIX_00"><span id="XIX_00_ref">[XIX_00]</span></a></li>
+        <li><span class="time-stamp">0:13:35</span> <a target="_blank" href="https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370">Boeing's stealth technology</a></li>
+        <li><span class="time-stamp">0:16:15</span> <a target="_blank" href="https://www.teslarati.com/spacex-starship-moon-lander-nasa-review-blue-origin">SpaceX’s Starship Moon lander passes NASA review alongside Blue Origin, Dynetics</a>/</li>
+        <li>
+            <span class="time-stamp">0:19:35</span> <a target="_blank" href="https://www.patreon.com/hampture">
+                Mad Scientist: is creating underwater habitats for hamsters
+            </a>
+        </li>
+        <li><span class="time-stamp">0:25:50</span> <a target="_blank" href="https://en.wikipedia.org/wiki/Cynefin_framework">Cynefin framework</a></li>
+        <li><span class="time-stamp">0:28:58</span> <a target="_blank" href="https://www.sciencemag.org/news/2020/11/famed-arecibo-telescope-brink-collapse-will-be-dismantled">Famed Arecibo telescope, on the brink of collapse, will be dismantled</a></li>
+        <li><span class="time-stamp">0:39:50</span> <a href="#XIX_01"><span id="XIX_01_ref">[XIX_01]</span></a> You didn't build that™ </li>
+        <li><span class="time-stamp">0:40:50</span> <a href="#XIX_02"><span id="XIX_02_ref">[XIX_02]</span></a> There's an app for that™</li>
+        <li><span class="time-stamp">0:33:10</span> <a target="_blank" href="https://en.wikipedia.org/wiki/The_Dark_Forest">The Dark Forest</a></li>
+        <li><span class="time-stamp">0:51:06</span> <a target="_blank" href="https://www.youtube.com/watch?v=XxQ4hBwp4Q4">Delta Airlines Commercial</a></li>
+        <li><span class="time-stamp">0:52:22</span> <a href="#XIX_03"><span id="XIX_03_ref">[XIX_03]</span></a></li>
+        <li><span class="time-stamp">1:04:49</span> <a href="#XIX_04"><span id="XIX_04_ref">[XIX_04]</span></a></li>
+        <li><span class="time-stamp">1:10:36</span> <a href="#XIX_05"><span id="XIX_05_ref">[XIX_05]</span></a>, <a href="#XIX_06"><span id="XIX_06_ref">[XIX_06]</span></a></li>
+        <li><span class="time-stamp">1:13:33</span> <a href="#XIX_07"><span id="XIX_07_ref">[XIX-07]</span></a></li>
+        <li><span class="time-stamp">2:01:55</span> <a target="_blank" href="https://en.wikipedia.org/wiki/Leffen">Leffen</a></li>
+        <li><span class="time-stamp">2:02:20</span> <a target="_blank" href="https://en.wikipedia.org/wiki/Armada_(gamer)">Armada (gamer)</a></li>
+        <li><span class="time-stamp">2:02:50</span> <a target="_blank" href="https://knowyourmeme.com/memes/20xx">Know Your Meme: 20XX</a></li>
+        <li><span class="time-stamp">2:03:00</span> <a target="_blank" href="https://www.youtube.com/watch?v=dmLSJrA0n9w">there will Never Ever be another Melee player like Hungrybox</a></li>
+        <li><span class="time-stamp">2:04:53</span> <a target="_blank" href="https://en.wikipedia.org/wiki/Niki_Lauda">Niki Lauda</a></li>
+    </ul>
+    <hr />
+    <ul>
+        <li>
+            <a href="#XIX_00_ref"><span id="XIX_00">[XIX_00]</span></a>
+            <a href="~/Content/XIX/XIX_00.png" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_00.png" /></a>
+        </li>
+        <li>
+            <a href="#XIX_01_ref"><span id="XIX_01">[XIX_01]</span></a>
+            <a href="~/Content/XIX/XIX_01.jpg" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_01.jpg" /></a>
+        </li>
+        <li>
+            <a href="#XIX_02_ref"><span id="XIX_02">[XIX_02]</span></a>
+            <a href="~/Content/XIX/XIX_02.jpg" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_02.jpg" /></a>
+        </li>
+        <li>
+            <a href="#XIX_03_ref"><span id="XIX_03">[XIX_03]</span></a>
+            <a href="~/Content/XIX/XIX_03.jpg" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_03.jpg" /></a>
+        </li>
+        <li>
+            <a href="#XIX_04_ref"><span id="XIX_04">[XIX_04]</span></a>
+            <a href="~/Content/XIX/XIX_04.jpg" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_04.jpg" /></a>
+        </li>
+        <li>
+            <a href="#XIX_05_ref"><span id="XIX_05">[XIX_05]</span></a>
+            <a href="~/Content/XIX/XIX_05.jpg" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_05.jpg" /></a>
+        </li>
+        <li>
+            <a href="#XIX_06_ref"><span id="XIX_06">[XIX_06]</span></a>
+            <a href="~/Content/XIX/XIX_06.jpg" target="_blank">
+                <img class="img-responsive slide" src="~/Content/XIX/XIX_06.jpg" />
+            </a>
+        </li>
+        <li>
+            <a href="#XIX_07_ref"><span id="XIX_07">[XIX_07]</span></a>
+            <a href="~/Content/XIX/XIX_07.jpg" target="_blank"><img class="img-responsive slide" src="~/Content/XIX/XIX_07.jpg" /></a>
+        </li>
+        <hr />
+    </ul>
+    <div class="gallery-control">
+        <div class="explorer-pane">
+            <ul>
+                <li data="~/Content/XIX/XIX_08.png"><span id="XIX_08">08</span></li>
+                <li data="~/Content/XIX/XIX_09.png"><span id="XIX_09">09</span></li>
+                <li data="~/Content/XIX/XIX_10.png"><span id="XIX_10">10</span></li>
+                <li data="~/Content/XIX/XIX_11.png"><span id="XIX_11">11</span></li>
+                <li data="~/Content/XIX/XIX_12.png"><span id="XIX_12">12</span></li>
+                <li data="~/Content/XIX/XIX_13.jpg"><span id="XIX_13">13</span></li>
+                <li data="~/Content/XIX/XIX_14.jpg"><span id="XIX_14">14</span></li>
+                <li data="~/Content/XIX/XIX_15.jpg"><span id="XIX_15">15</span></li>
+                <li data="~/Content/XIX/XIX_16.jpg"><span id="XIX_16">16</span></li>
+                <li data="~/Content/XIX/XIX_17.png"><span id="XIX_17">17</span></li>
+                <li data="~/Content/XIX/XIX_18.png"><span id="XIX_18">18</span></li>
+                <li data="~/Content/XIX/XIX_19.png"><span id="XIX_19">19</span></li>
+                <li data="~/Content/XIX/XIX_20.png"><span id="XIX_20">20</span></li>
+                <li data="~/Content/XIX/XIX_21.png"><span id="XIX_21">21</span></li>
+                <li data="~/Content/XIX/XIX_22.jpg"><span id="XIX_22">22</span></li>
+                <li data="~/Content/XIX/XIX_23.jpg"><span id="XIX_23">23</span></li>
+                <li data="~/Content/XIX/XIX_24.png"><span id="XIX_24">24</span></li>
+                <li data="~/Content/XIX/XIX_25.png"><span id="XIX_25">25</span></li>
+                <li data="~/Content/XIX/XIX_26.png"><span id="XIX_26">26</span></li>
+                <li data="~/Content/XIX/XIX_27.jpg"><span id="XIX_27">27</span></li>
+                <li data="~/Content/XIX/XIX_28.png"><span id="XIX_28">28</span></li>
+            </ul>
+        </div>
+        <div class="viewer-pane">
+            <a id="linkViewerXIX" href="~/Content/XIX/XIX_08.png" target="_blank">
+                <img id="slideViewerXIX" class="img-responsive slide" src="~/Content/XIX/XIX_08.png" />
+            </a>
+        </div>
+    </div>
+    <p></p>
+
+</div>
+<div class="row">
+    <h1 id="XVIII"><span>G2D - Episode XVIII</span><a class="visible-anchor anchor-link" href="#XVIII">#</a></h1>
+    <p class="lead">Esoterics and Light</p>
+    <p>Sealing the time capsule. Featuring Dr. Robert Dea Peterson, Vince, McNiff and more!</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    @*<iframe class="responsive-iframe" width="700" height="350" src="https://www.youtube-nocookie.com/embed/uuVt4paRt2E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*@
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=2m25s">0:02:25</a> Sanctus, Mass No 5 - Schubert</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=13m16s A">0:13:16</a> German Requiem and Symphony No 1 - Brahms</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=22m24s">0:22:24</a> Act 1, Parsifal - Wagner</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=37m14s">0:37:14</a> McNiff</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=43m17s">0:43:17</a> <a target="_blank" href="http://intellectualmathematics.com/blog/galileo-bad-archimedes-good/">Bad, Archimedes Good</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=50m54s">0:50:54</a> <a target="_blank" href="https://www.youtube.com/watch?v=N7oz366X0-8">Cynefin Framework</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=uuVt4paRt2E&t=1h10m55s">1:10:55</a> Putting it all together</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/uuVt4paRt2E">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+    <h1 id="XVII"><span>G2D - Episode XVII</span><a class="visible-anchor anchor-link" href="#XVII">#</a></h1>
+    <p class="lead">𝑇𝐻𝐸 𝐴𝑈𝐷𝐼𝐸𝑁𝐶𝐸 𝑂𝐹 𝑁𝑂𝑁𝐸 (ɪɴɢʀᴇᴅɪʙʟʏᴼᴺᴸᴵᴺᴱ)</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=R577kb--gt4&t=0h00m40s">0:00:40</a> Nisi Dominus - Handel</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=R577kb--gt4&t=0h01m27s">0:01:27</a> Bennis Reax</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=R577kb--gt4&t=0h51m31s">0:51:31</a> You got mail</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=R577kb--gt4&t=1h06m50s">1:06:50</a> Legibility</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=R577kb--gt4&t=1h16m02s">1:16:02</a> <a target="_blank" href="https://www.youtube.com/watch?v=sw8TgFVG4OY">Ⓒ𝕙𝕒𝕟𝕥𝕚𝕔𝕝𝕖𝕖𝕣 · 𝔽𝕣𝕒𝕟𝕫 🅱𝕚𝕖𝕓𝕝</a></li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/R577kb--gt4">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+    <h1 id="XVI"><span>G2D - Episode XVI</span><a class="visible-anchor anchor-link" href="#XVI">#</a></h1>
+    <p class="lead">Jerry rigging</p>
+    <p>You can't tell anyone about this.</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=00m01s">0:00:01</a> <a target="_blank" href="https://youtu.be/sw8TgFVG4OY">ｄａｔ ｉｎｔｒｏ</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=03m18s">0:03:18</a> ISIS could really spruce up the place, drastically</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=07m41s">0:07:41</a> Bennis Reax</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=14m20s">0:14:20</a> Wag the Dog</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=28m26s">0:28:26</a> For the Credit</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=36m18s">0:36:18</a> Reading the Fan Mail <a href="#XVI_00"><span id="XVI_00_ref">[XVI_00]</span></a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=5bPemwuR3r0&t=38m33s">0:38:33</a> Bennis Reax - Round II</li>
+    </ul>
+    <ul>
+        <li>
+            <a href="#XVI_00_ref"><span id="XVI_00">[XVI_00]</span></a>
+            <a href="~/Content/XVI/XVI_00.png" target="_blank"><img class="img-responsive slide" src="~/Content/XVI/XVI_00.png" /></a>
+        </li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/5bPemwuR3r0">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+    <h1 id="AH2"><span>G2D - After Hours Edition II</span><a class="visible-anchor anchor-link" href="#AH2">#</a></h1>
+    <p class="lead">Jay Dropped the Ball</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/after hours title card.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=00m01s">0:00:01</a> Acronym - Insert Coin</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=02m16s">0:02:16</a> Wᴇ Wɪʟʟ Hᴀᴠᴇ Gᴀʀʙs</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=31m27s">0:31:27</a> Extra Eclesiam nulla salus</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=36m43s">0:36:43</a> Pope Francis I</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=49m34s">0:49:34</a> <a target="_blank" href="https://www.youtube.com/watch?v=V36yLInXxgM&t=30">"Priolosec" spelling</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=50m44s">0:50:44</a> Κθ𝜈ιΔ-XIX knews</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=T6ESelC2wZI&t=54m40s">0:54:40</a> Turbo Killer - Carpenter Brut</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/T6ESelC2wZI">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+    <h1 id="XIV"><span>G2D - Episode XIV</span><a class="visible-anchor anchor-link" href="#XIV">#</a></h1>
+    <p class="lead">Did you use a Scantron Mini?</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=3Y-ts4lu-zk&t=0h00m01s">0:00:01</a> Mass No 5, Credo - Schubert</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=3Y-ts4lu-zk&t=0h09m34s">0:09:34</a> das Boomer Weltanschauung</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=3Y-ts4lu-zk&t=0h29m09s">0:29:09</a> Trek Wars <a href="#XIV_00"><span id="XIV_00ref">[XIV_00]</span></a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=3Y-ts4lu-zk&t=1h02m44s">1:02:44</a> <a target="_blank" href="https://www.char4u.com/content/four-professions-ancient-china/">Four Professions of Ancient China</a></li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=3Y-ts4lu-zk&t=1h15m20s">1:15:20</a> dat micro score</li>
+    </ul>
+    <ul>
+        <li>
+            <a href="#XIV_00ref"><div id="XIV_00">[XIV_00]</div></a>
+            <a target="_blank" href="~/Content/XIV/XIV_00.png"><img class="img-responsive slide" src="~/Content/XIV/XIV_00.png" /></a>
+        </li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://www.youtube.com/watch?v=3Y-ts4lu-zk">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+    <h1 id="XIII"><span>G2D - Episode XIII</span><a class="visible-anchor anchor-link" href="#XIII">#</a></h1>
+    <p class="lead">Lateral Thinking</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=aBev1kv3QXU&t=0h00m01s">0:00:01</a> Nisi dominus, Cum dederit - Vivaldi</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=aBev1kv3QXU&t=0h06m33s">0:06:33</a> Interview with an Ashani</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=aBev1kv3QXU&t=0h29m32s">0:29:32</a> Doing it for Harambe</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=aBev1kv3QXU&t=1h10m21s">1:10:21</a> fact chequer: <a target="_blank" href="https://us.beyondbullsandbears.com/2020/07/28/on-my-mind-they-blinded-us-from-science/">On My Mind: They Blinded Us from Science</a></li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/aBev1kv3QXU">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+
+    <h1 id="AH1"><span>G2D - After Hours Edition</span><a class="visible-anchor anchor-link" href="#AH1">#</a></h1>
+    <p class="lead">Misato best girl</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/after hours title card.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=KbSxslux53c&t=0h02m04s">0:02:04</a> The Jefferson buy-bull</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=KbSxslux53c&t=0h59m23s">0:59:23</a> You can't outpizza the hut</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=KbSxslux53c&t=1h24m53s">1:24:53</a> <a target="_blank" href="https://www.youtube.com/watch?v=RpUJfW4WTKw">"Are You Destined to Deal?" With Goldman Sachs Managing Director Jim Donovan</a></li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/KbSxslux53c">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+    <h1 id="XI"><span>G2D - Episode XI</span><a class="visible-anchor anchor-link" href="#XI">#</a></h1>
+    <p class="lead">Cultivating Focus</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=J11Ln8iVuxo&t=0h00m01s">0:00:01</a> Cum sancto spiritu, Mass in B Minor - Bach
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=J11Ln8iVuxo&t=0h44m05s">0:44:05</a> "Communism has never been tried"
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=J11Ln8iVuxo&t=1h21m52s">1:21:52</a> e.g., <a target="_blank" href="https://www.dmitrysoshnikov.education/">Dmitry Soshnikov → Education</a> and <a target="_blank" href="https://www.youtube.com/watch?v=sQm4zRvvX58&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8">PowerShell Master Class - PowerShell Fundamentals</a>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/J11Ln8iVuxo">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+    <h1 id="X"><span>G2D - Episode X</span><a class="visible-anchor anchor-link" href="#X">#</a></h1>
+    <p class="lead">Give Me 8 Bags</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=rZ6Pcazudd0&t=0h00m01s">0:00:01</a> Credo, Mass No 2 - Schubert</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=rZ6Pcazudd0&t=0h25m03s">0:25:03</a> The Yan-Ki Empire</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=rZ6Pcazudd0&t=1h00m59s">1:00:59</a> FL46 D∃SI6N</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=rZ6Pcazudd0&t=1h20m00s">1:20:00</a> a Big Work = a Big Happy</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=rZ6Pcazudd0&t=1h33m40s">1:33:40</a> upboats to the left</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=rZ6Pcazudd0&t=1h46m00s">1:46:00</a> "Deo gratias" - Saint Oliver Plunkett</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/rZ6Pcazudd0">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+    <h1 id="IX"><span>G2D - Episode IX</span><a class="visible-anchor anchor-link" href="#IX">#</a></h1>
+    <p class="lead">I see the power of belief</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=A-F0hlV7Spc&t=0h00m01s">0:00:01</a> Crucifixus, Mass in B Minor - Bach</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=A-F0hlV7Spc&t=0h04m46s">0:04:46</a> I see the power of belief</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=A-F0hlV7Spc&t=0h19m15s">0:19:15</a> member when</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=A-F0hlV7Spc&t=0h40m18s">0:40:18</a> born under a bad sign with a blue moon in your eye</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=A-F0hlV7Spc&t=0h57m18s">0:57:18</a> correckshun: Henry VIII was trying to invalidate HIS own marriage by citing Leviticus</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/A-F0hlV7Spc">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+    <h1 id="VIII"><span>G2D - Episode VIII</span><a class="visible-anchor anchor-link" href="#VIII">#</a></h1>
+    <p class="lead">You are a skiled professional</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=0h00m01s">0:00:01</a> O Sacrum Convivium - Thomas Tallis</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=0h35m47s">0:35:47</a> Aca Deca</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=1h20m00s">1:20:00</a> Be McNiff</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=1h39m50s">1:39:50</a> Album Art </li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=1h49m10s">1:49:10</a> All hail Princess Trunks</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=2h15m20s">2:15:20</a> Garbage Day</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=2h20m00s">2:20:00</a> You are a skiled professional</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=2h28m36s">2:28:36</a> The Hoffman Campaign</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=a5YGq-i-90w&t=2h43m45s">2:43:45</a> The Ashani Peak</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/a5YGq-i-90w">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+
+    <h1 id="VII"><span>G2D - Episode VII</span><a class="visible-anchor anchor-link" href="#VII">#</a></h1>
+    <p class="lead">That credit, forget it.</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=gCGAJPAUXIQ&t=1s">0:00:01</a> Lamentations Of Jeremiah The Prophet - Palestrina</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/gCGAJPAUXIQ">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+    <h1 id="VI"><span>G2D - Episode VI</span><a class="visible-anchor anchor-link" href="#VI">#</a></h1>
+    <p class="lead">Bless me... Ultima</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=VdlCsnEDp_I&t=0h00m01s">0:00:01</a> Mass No 5 in A Flat Major - Schubert</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=VdlCsnEDp_I&t=0h05m20s">0:05:20</a> Read the core Anne</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=VdlCsnEDp_I&t=0h17m54s">0:17:54</a> Guardian Force Simulator VIII</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=VdlCsnEDp_I&t=0h37m41s">0:37:41</a> bless me... U L T I M A !</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=VdlCsnEDp_I&t=0h42m23s">0:42:23</a> Zuckerberg the lizard</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=VdlCsnEDp_I&t=1h14m02s">1:14:02</a> I ain't no helicopter papa</li>
+    </ul>
+    <p><a target="_blank" href="https://acadecscores.gilslotd.com/wiki/Burbank_High_School#Score_Book">https://acadecscores.gilslotd.com/wiki/Burbank_High_School#Score_Book</a></p>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/VdlCsnEDp_I">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+    <h1 id="V"><span>G2D - Episode V</span><a class="visible-anchor anchor-link" href="#V">#</a></h1>
+    <p class="lead">The Other Wilford</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=aKyk7wMOoM4&t=0h00m01s">0:00:01</a> Hymn to St Magnus "Nobilis humilis"</li>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=aKyk7wMOoM4&t=0h35m09s">0:35:09</a> when September ends</li>
+    </ul>
+    <p><a target="_blank" href="https://www.atlasobscura.com/places/mcmath-pierce-solar-telescope-0">https://www.atlasobscura.com/places/mcmath-pierce-solar-telescope-0</a></p>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/aKyk7wMOoM4">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+
+    <h1 id="IV"><span>G2D - Episode IV</span><a class="visible-anchor anchor-link" href="#IV">#</a></h1>
+    <p class="lead">Wanting things™ is a bad</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="_blank" href="https://www.youtube.com/watch?v=ckPAgZvrb4w&t=1s">0:00:00</a> Agnus Dei - Palestrina</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/ckPAgZvrb4w">View full episode on YouTube &raquo;</a></p>
+
+</div>
+<div class="row">
+
+    <h1 id="III"><span>G2D - Episode III</span><a class="visible-anchor anchor-link" href="#III">#</a></h1>
+    <p class="lead">You are The Dennis</p>
+    <img class="img-responsive title-card" src="~/Content/G2D/Title Card 1.png" />
+    <ul>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=0h00m01s">0:00:01</a>  Symphony No 4 in C Minor - Schubert</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=0h09m55s">0:09:55</a> Greg's Arrival</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=0h45m47s">0:45:47</a> On Dennis' Dab Rig</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=1h07m52s">1:07:52</a> On Ted Williams</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=1h44m10s">1:44:10</a> The Alvin</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=2h20m55s">2:20:55</a> You are The Dennis</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=2h25m50s">2:25:50</a> The Zissou</li>
+        <li><a target="blank" href="https://www.youtube.com/watch?v=2Rmku3QyUtQ&t=2h29m05s">2:29:05</a> D3</li>
+    </ul>
+    <p><a class="btn btn-default" target="_blank" href="https://youtu.be/2Rmku3QyUtQ">View full episode on YouTube &raquo;</a></p>
+</div>
+<div class="row">
+
+    <h1 id="trailer"><span>Presenting Greg to Differ (G2D)</span><a class="visible-anchor anchor-link" href="#trailer">#</a></h1>
+    <p class="lead">A podcast of esoterics and light</p>
+    <img class="img-responsive title-card" src="~/Content/General/knights.jfif" />
+    <p><a class="btn btn-default" target="_blank" href="https://www.youtube.com/playlist?list=PLSSmSe81H8fJlSQJPAV4GaekjFxVlLWox">View playlist on YouTube &raquo;</a></p>
+
+</div>
+	
