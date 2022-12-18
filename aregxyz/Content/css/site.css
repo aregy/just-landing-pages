@@ -150,3 +150,9 @@ html {
     width: 75%;
     float: left;
 }
+footer {
+    overflow: auto;
+    display: inline-block;
+    bottom: 5%;
+    position: fixed;
+}
